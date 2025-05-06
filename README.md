@@ -1,6 +1,7 @@
 # WPF 数据验证演示
 
 这是一个基于WPF的数据验证演示应用程序，展示了在MVVM架构下多种数据验证的实现方法。
+![image](https://github.com/user-attachments/assets/b86571d1-a877-4ee7-ac1a-842edfd30bd5)
 
 ## 项目简介
 
